@@ -7,7 +7,7 @@
     "backend": {
       "root": "api/",
       "framework": "fastapi",
-      "entrypoint": "index.py"
+      "entrypoint": "index:app"
     }
   },
   "rewrites": [
